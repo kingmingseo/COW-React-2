@@ -6,12 +6,18 @@
 <table  width="100%">
   <tr>
     <td  align="center">
-      <img  src="https://avatars.githubusercontent.com/u/98771235?v=4"  width="100px;"  alt=""/>
+      <img  src="https://avatars.githubusercontent.com/u/101965138?v=4"  width="100px;"  alt=""/>
+    </td>
+      <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/107786171?v=4"  width="100px;"  alt=""/>
     </td>
   </tr>
   <tr>
     <td align="center">
             <div>민서</div>
+    </td>
+      <td align="center">
+            <div>현지</div>
     </td>
   </tr>
 </table>
